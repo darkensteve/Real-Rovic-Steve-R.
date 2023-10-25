@@ -30,9 +30,8 @@ public class ActivityThreeReal {
             float totalPHP = 0.00f;
             String orderCode = "";
             String productUSD = "";
-            int mainMenuQty = 0; // Quantity of main menu item
-            int addonsQty = 0; // Quantity of add-ons
-
+            int mainMenuQty = 0;
+            int addonsQty = 0;
             switch (choi) {
                 case 1:
                     totalPHP = C1;
